@@ -1,5 +1,5 @@
 # GitHub Copilot
-## Enhance a Node Calculator app using GitHub Copilot
+## Calculator app using JavaScript and Node
 
 In this fun workshop, you will learn how to use GitHub Copilot to enhance a node-based Calculator, with little to no coding experience required.
 
@@ -8,7 +8,7 @@ The project contains a simple server.js application that exposes REST APIs to pe
 
 ## Instructions 
 
-Inside the `.instructions` folder you will find a number of markdown files that contain the instructions for this workshop.
+Inside the `instructions` folder you will find a number of markdown files that contain the instructions for this workshop.
 
 Filename | Description
 --- | ---
