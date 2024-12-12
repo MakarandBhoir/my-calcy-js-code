@@ -23,9 +23,6 @@ jobs:
 
     - name: Build project
       run: npm run build
-    
-    # - name: Archive production artifacts
-    #   run: zip -r build.zip .
       
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
